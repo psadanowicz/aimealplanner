@@ -1,0 +1,97 @@
+{
+  "id": "meal_id",
+  "name": "Grilled Chicken Salad",
+  "description": "Grilled chicken tossed with fresh vegetables and a light vinaigrette dressing",
+  "category": "Salad",
+  "ingredients": [
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "amount": "300",
+      "unit": "grams"
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "amount": "1",
+      "unit": "large"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "id": "olive_oil",
+      "name": "Olive Oil",
+      "amount": "2",
+      "unit":"tablespoons"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Lemon Juice",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper",
+      "amount": "1",
+      "unit": "teaspoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "description": "Marinate the chicken with lemon juice, salt, and pepper for 30 minutes."
+    },
+    {
+      "step_number": 2,
+      "description": "Grill the chicken for 15-20 minutes until fully cooked. Let it cool and slice it into thin strips."
+    },
+    {
+      "step_number": 3,
+      "description": "In a large bowl, combine the lettuce, tomato, cucumber, and carrot."
+    },
+    {
+      "step_number": 4,
+      "description": "Add the sliced chicken to the bowl and tossto combine the ingredients."
+    },
+    {
+      "step_number": 5,
+      "description": "In a separate small bowl, whisk together the olive oil, lemon juice, salt, and pepper to make the vinaigrette dressing."
+    },
+    {
+      "step_number": 6,
+      "description": "Drizzle the vinaigrette over the salad and toss to coat evenly."
+    }
+  ],
+  "prepTime": "30 minutes",
+  "cookTime": "20 minutes",
+  "totalTime": "50 minutes",
+  "servings": "2",
+  "calories": "350",
+  "protein": "30",
+  "carbohydrates": "20",
+  "fat": "15",
+  "image": "https://example.com/grilled_chicken_salad.jpg"
+}

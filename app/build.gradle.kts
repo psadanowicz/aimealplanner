@@ -69,6 +69,7 @@ dependencies {
     implementation(libs.retrofit2)
     implementation(libs.retrofit2.moshi)
     implementation(libs.retrofit2.okhttp.logging)
+    implementation(libs.retrofit2.mock.server)
 
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)
